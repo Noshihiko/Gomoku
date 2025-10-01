@@ -34,7 +34,6 @@ The project includes a playable version of Gomoku in Python, as well as document
   - Final evaluation based on the AI’s correct functionality and ability to play multiple games without errors  
 - Also includes instructions for hosting and testing on **Google Colab**.
 
----
 
 ## Getting Started
 
@@ -58,7 +57,6 @@ Only Python 3.x needed.
    - A player places **five stones in a row**
    - Or the board is full (draw).
 
----
 ## References
 - [Gomoku analysis paper (arXiv)](http://arxiv.org/abs/2111.01016v1) – theoretical foundation for AI design.
 - Assignment guidelines in `IA-Affrontement_entre_IA.pdf`.
